@@ -1,8 +1,10 @@
-<!-- PROFILE HEADER -->
+<!-- ======================= PROFILE HEADER ======================= -->
 
 <div align="center">
 
-# 👨‍💻 Saransh Gupta
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Saransh%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20Machine%20Learning&descAlignY=58" />
+
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Full+Stack+Developer;Building+Real-World+AI+Applications;Machine+Learning+%26+Interactive+Systems;Healthcare+%26+Education+Tech+Innovator;Open+Source+Builder+%26+Problem+Solver" />
 
@@ -23,7 +25,11 @@
 
 # ⚡ About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+
+<table>
+<tr>
+<td width="58%">
 
 ```yaml
 Name: Saransh Gupta
@@ -46,13 +52,29 @@ Passionate About:
   - Educational Technology
 ```
 
+</td>
+
+<td width="42%">
+
+<img align="center" alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <br>
 
-- 🚀 Building impactful AI-driven applications  
-- 🌐 Creating scalable and interactive web platforms  
-- 🧠 Exploring Machine Learning, RAG & AI workflows  
-- 🎮 Interested in immersive simulations & multiplayer systems  
-- ⚡ Turning ideas into production-ready projects  
+<div align="center">
+
+🚀 Building impactful AI-driven applications  
+🌐 Creating scalable and interactive web platforms  
+🧠 Exploring Machine Learning, RAG & AI workflows  
+🎮 Interested in immersive simulations & multiplayer systems  
+⚡ Turning ideas into production-ready projects  
+
+</div>
 
 ---
 
@@ -60,27 +82,25 @@ Passionate About:
 
 <div align="center">
 
-### 💻 Languages
+## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp" />
 
----
+<br><br>
 
-### 🎨 Frontend Development
+## 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
----
+<br><br>
 
-### ⚙️ Backend & Cloud
+## ⚙️ Backend & Cloud
 
 <img src="https://skillicons.dev/icons?i=nodejs,flask,firebase" />
 
----
+<br><br>
 
-### 🤖 AI / ML / Modern AI Stack
-
-<p align="center">
+## 🤖 AI / ML / Modern AI Stack
 
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG%20Pipelines-0A66C2?style=for-the-badge" />
@@ -88,11 +108,9 @@ Passionate About:
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-16A34A?style=for-the-badge" />
 
-</p>
+<br><br>
 
----
-
-### 🗄️ Databases & Developer Tools
+## 🗄️ Databases & Developer Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 
@@ -104,12 +122,47 @@ Passionate About:
 
 <div align="center">
 
-| Project | Description | Tech |
-|---|---|---|
-| 🩺 **HealthMitra** | AI-powered healthcare assistance platform with camera integration and authentication workflows | `Flask` `Python` `Healthcare AI` |
-| 🤖 **ChickenPox Detector AI** | ML-based skin infection detection system using image analysis + symptom evaluation | `TensorFlow` `Flask` `Machine Learning` |
-| 🎮 **LifePath** | Interactive multiplayer real-life decision simulator with branching outcomes | `React` `Firebase` `Realtime Systems` |
-| 🎭 **Pranspanda Theatre** | Dynamic seat booking system for seminars, movie screenings & events | `Flask` `Booking System` `Interactive UI` |
+<table>
+<tr>
+<td width="50%">
+
+### 🩺 HealthMitra
+AI-powered healthcare assistance platform with camera integration and authentication workflows.
+
+`Flask` `Python` `Healthcare AI`
+
+</td>
+
+<td width="50%">
+
+### 🤖 ChickenPox Detector AI
+ML-based skin infection detection system using image analysis + symptom evaluation.
+
+`TensorFlow` `Flask` `Machine Learning`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 LifePath
+Interactive multiplayer real-life decision simulator with branching outcomes.
+
+`React` `Firebase` `Realtime Systems`
+
+</td>
+
+<td width="50%">
+
+### 🎭 Pranspanda Theatre
+Dynamic seat booking system for seminars, movie screenings & events.
+
+`Flask` `Booking System` `Interactive UI`
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -129,12 +182,22 @@ Passionate About:
 
 <div align="center">
 
-🎯 AI-Powered Healthcare Systems  
-🎮 Interactive Multiplayer Applications  
-🧠 Machine Learning & RAG Architectures  
-🌐 Scalable Full Stack Development  
-📚 Educational Technology & Simulations  
-⚡ Real-World Product Building  
+<table>
+<tr>
+<td align="center">🎯 AI-Powered Healthcare Systems</td>
+<td align="center">🎮 Interactive Multiplayer Applications</td>
+</tr>
+
+<tr>
+<td align="center">🧠 Machine Learning & RAG Architectures</td>
+<td align="center">🌐 Scalable Full Stack Development</td>
+</tr>
+
+<tr>
+<td align="center">📚 Educational Technology & Simulations</td>
+<td align="center">⚡ Real-World Product Building</td>
+</tr>
+</table>
 
 </div>
 
@@ -168,6 +231,10 @@ Passionate About:
 
 <div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br><br>
+
 > ### “Technology becomes truly impactful when it solves real human problems.”
 
 I love building systems that combine **AI, interactivity, scalability, and meaningful user experiences** — transforming ideas into products people can actually use.
@@ -181,5 +248,7 @@ I love building systems that combine **AI, interactivity, scalability, and meani
 ## 🌟 Thanks for visiting my profile!
 
 ### If you like my work, consider starring my repositories ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" />
 
 </div>
