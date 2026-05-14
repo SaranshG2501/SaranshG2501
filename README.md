@@ -11,7 +11,7 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/AI%20Engineer-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript%20Developer-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20Source-16A34A?style=for-the-badge&logo=github&logoColor=white" />
 
@@ -84,7 +84,7 @@ Passionate About:
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
 
 <br><br>
 
@@ -96,7 +96,7 @@ Passionate About:
 
 ## ⚙️ Backend & Cloud
 
-<img src="https://skillicons.dev/icons?i=nodejs,flask,firebase" />
+<img src="https://skillicons.dev/icons?i=flask,firebase" />
 
 <br><br>
 
@@ -112,7 +112,7 @@ Passionate About:
 
 ## 🗄️ Databases & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,github,vscode" />
 
 </div>
 
