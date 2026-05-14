@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+JS+Python+Dev;Building+Real-World+AI+Applications;Machine+Learning+%26+Interactive+Systems;Healthcare+%26+Education+Tech+Innovator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+JS,Python+Dev;Building+Real-World+AI+Applications;Machine+Learning+%26+Interactive+Systems;Healthcare+%26+Education+Tech+Innovator" />
 
 <br><br>
 
