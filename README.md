@@ -125,16 +125,6 @@ Passionate About:
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaranshG2501&theme=tokyo-night&hide_border=true&radius=16" />
-
-</div>
-
----
-
 # 🏆 Achievements & Interests
 
 <div align="center">
