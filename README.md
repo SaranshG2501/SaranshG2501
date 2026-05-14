@@ -1,80 +1,58 @@
-# Hi there 👋 I'm Saransh Gupta
+<!-- PROFILE HEADER -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Interactive+Web+Experiences;Healthcare+%26+Education+Tech+Innovator" alt="Typing SVG" />
+# 👨‍💻 Saransh Gupta
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Full+Stack+Developer;Building+Real-World+AI+Applications;Machine+Learning+%26+Interactive+Systems;Healthcare+%26+Education+Tech+Innovator;Open+Source+Builder+%26+Problem+Solver" />
 
-<img src="https://img.shields.io/badge/AI%20Developer-0A66C2?style=for-the-badge&logo=OpenAI&logoColor=white" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-black?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github" />
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-16A34A?style=for-the-badge&logo=github&logoColor=white" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SaranshG2501&style=for-the-badge&color=0e75b6" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# ⚡ About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 Name: Saransh Gupta
 Location: India 🇮🇳
 Role: AI & Full Stack Developer
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Full Stack Web Development
-  - Interactive Simulations
 
-Currently Building:
-  - LifePath → Interactive real-life decision simulator
-  - AI-powered healthcare systems
-  - Multiplayer collaborative applications
-  - Intelligent recommendation platforms
+Currently Working On:
+  - LifePath → Interactive real-life simulator
+  - AI-powered healthcare platforms
+  - Multiplayer collaborative systems
+  - Intelligent recommendation engines
+  - MCP Servers & RAG Pipelines
+
+Passionate About:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Machine Learning
+  - Interactive Experiences
+  - Healthcare Technology
+  - Educational Technology
 ```
 
----
+<br>
 
-# 🌟 Featured Projects
-
-## 🩺 HealthMitra
-
-AI-powered healthcare assistance platform with authentication, camera integration, and medical support workflows.
-
-### Tech Stack
-
-`Python` `Flask` `HTML` `AI Workflows`
-
----
-
-## 🤖 ChickenPox Detector AI
-
-Machine learning-based healthcare application combining image classification and symptom analysis for preliminary chickenpox screening.
-
-### Tech Stack
-
-`TensorFlow` `Flask` `Machine Learning` `Healthcare AI`
-
----
-
-## 🎮 LifePath
-
-Interactive multiplayer decision simulator focused on real-life scenarios, educational collaboration, and consequence-driven storytelling.
-
-### Tech Stack
-
-`React` `Node.js` `Firebase` `Realtime Systems`
-
----
-
-## 🎭 Pranspanda Theatre
-
-Dynamic seat booking and event management platform for college seminars, movie screenings, and theatre events.
-
-### Tech Stack
-
-`Python` `Flask` `Booking Systems` `Interactive UI`
+- 🚀 Building impactful AI-driven applications  
+- 🌐 Creating scalable and interactive web platforms  
+- 🧠 Exploring Machine Learning, RAG & AI workflows  
+- 🎮 Interested in immersive simulations & multiplayer systems  
+- ⚡ Turning ideas into production-ready projects  
 
 ---
 
@@ -82,37 +60,56 @@ Dynamic seat booking and event management platform for college seminars, movie s
 
 <div align="center">
 
-## Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp" />
 
-## Frontend Development
+---
+
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
-## Backend Development
+---
+
+### ⚙️ Backend & Cloud
 
 <img src="https://skillicons.dev/icons?i=nodejs,flask,firebase" />
 
-## AI / ML
+---
 
-<img src="https://skillicons.dev/icons?i=Langchain,MCP Servers, RAG Model and Pipelining, Machine Learning " />
+### 🤖 AI / ML / Modern AI Stack
 
-## Databases & Tools
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP%20Servers-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-16A34A?style=for-the-badge" />
+
+</p>
+
+---
+
+### 🗄️ Databases & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🌟 Featured Projects
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaranshG2501&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaranshG2501&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+| Project | Description | Tech |
+|---|---|---|
+| 🩺 **HealthMitra** | AI-powered healthcare assistance platform with camera integration and authentication workflows | `Flask` `Python` `Healthcare AI` |
+| 🤖 **ChickenPox Detector AI** | ML-based skin infection detection system using image analysis + symptom evaluation | `TensorFlow` `Flask` `Machine Learning` |
+| 🎮 **LifePath** | Interactive multiplayer real-life decision simulator with branching outcomes | `React` `Firebase` `Realtime Systems` |
+| 🎭 **Pranspanda Theatre** | Dynamic seat booking system for seminars, movie screenings & events | `Flask` `Booking System` `Interactive UI` |
 
 </div>
 
@@ -128,22 +125,26 @@ Dynamic seat booking and event management platform for college seminars, movie s
 
 ---
 
-# 🏆 Achievements & Focus Areas
-
-* 🚀 Building AI-powered healthcare applications
-* 🎮 Creating interactive multiplayer systems
-* 🧠 Exploring machine learning & recommendation engines
-* 🌐 Developing scalable full stack applications
-* 📚 Interested in educational technology & simulations
-* ⚡ Strong focus on real-world impactful projects
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaranshG2501&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaranshG2501&theme=tokyo-night&hide_border=true&radius=16" />
+
+</div>
+
+---
+
+# 🏆 Achievements & Interests
+
+<div align="center">
+
+🎯 AI-Powered Healthcare Systems  
+🎮 Interactive Multiplayer Applications  
+🧠 Machine Learning & RAG Architectures  
+🌐 Scalable Full Stack Development  
+📚 Educational Technology & Simulations  
+⚡ Real-World Product Building  
 
 </div>
 
@@ -157,7 +158,7 @@ Dynamic seat booking and event management platform for college seminars, movie s
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="www.linkedin.com/in/saransh-gupta-7b138a191">
+<a href="https://www.linkedin.com/in/saransh-gupta-7b138a191">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -175,16 +176,20 @@ Dynamic seat booking and event management platform for college seminars, movie s
 
 # 💭 Developer Philosophy
 
-> “Technology becomes meaningful when it solves real human problems.”
+<div align="center">
 
-I enjoy building impactful systems that combine AI, interactivity, and scalable web technologies to create engaging user experiences.
+> ### “Technology becomes truly impactful when it solves real human problems.”
+
+I love building systems that combine **AI, interactivity, scalability, and meaningful user experiences** — transforming ideas into products people can actually use.
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for visiting my profile!
+## 🌟 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=SaranshG2501&style=for-the-badge&color=blue" />
+### If you like my work, consider starring my repositories ⭐
 
 </div>
