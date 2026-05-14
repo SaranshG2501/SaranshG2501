@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+Full+Stack+Developer;Building+Real-World+AI+Applications;Machine+Learning+%26+Interactive+Systems;Healthcare+%26+Education+Tech+Innovator;Open+Source+Builder+%26+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+JS+Python+Dev;Building+Real-World+AI+Applications;Machine+Learning+%26+Interactive+Systems;Healthcare+%26+Education+Tech+Innovator" />
 
 <br><br>
 
@@ -234,8 +234,6 @@ Dynamic seat booking system for seminars, movie screenings & events.
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br><br>
-
-> ### “Technology becomes truly impactful when it solves real human problems.”
 
 I love building systems that combine **AI, interactivity, scalability, and meaningful user experiences** — transforming ideas into products people can actually use.
 
