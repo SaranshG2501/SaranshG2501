@@ -178,31 +178,6 @@ Dynamic seat booking system for seminars, movie screenings & events.
 
 ---
 
-# 🏆 Achievements & Interests
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">🎯 AI-Powered Healthcare Systems</td>
-<td align="center">🎮 Interactive Multiplayer Applications</td>
-</tr>
-
-<tr>
-<td align="center">🧠 Machine Learning & RAG Architectures</td>
-<td align="center">🌐 Scalable Full Stack Development</td>
-</tr>
-
-<tr>
-<td align="center">📚 Educational Technology & Simulations</td>
-<td align="center">⚡ Real-World Product Building</td>
-</tr>
-</table>
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
